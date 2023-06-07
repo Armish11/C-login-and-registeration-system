@@ -1,1 +1,1 @@
-# C-login-and-registeration-system
+Login and registration sytem in C++
